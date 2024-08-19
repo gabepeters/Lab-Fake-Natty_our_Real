@@ -1,48 +1,29 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
+
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Calendario pratico
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como sabemos temos assistentes sociais que ja fazem varias coisas mas não especificamente bem como outros que conseguem fazer uma ação melhor que um que faz varios, por isso minha ideia e fazer um calendario inteligente onde ele terá funcionalidades mais especificas como prever a temperatura do dia, notar algum feriado ou compromisso assim te avisando ou se vc marcar algo te avisar com andecedencia daquilo que você marcou antes, entre outras funionaldiades para você não se perder e não se desorganizar para compromissos importantes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Google Gemini
+GraphCast (Previsão do tempo)
+Ainda pensando em mais para ações mais especificas . . .
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A ideia é simples pois ja fizeram, mas quero aprofundar melhor tendo quase como uma siri/alexa como um calendario mesmo, ja estamos no futuro temos que pensar grande e usar a teclogia a nosso favor tendo ideias assim para facilitar no dia a dia, pense no futuro como telas e não papel!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma ideia boa que vai facilitar o trabalho de muitos e ajudar muitos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Ser como um calendario mesmo so em versão de "tablet" mais mordenizado e ainda tendo uma caracterista de um antigo.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
